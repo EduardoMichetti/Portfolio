@@ -1,0 +1,13 @@
+Plugins
+ Live server
+ Live Sass Compiler
+
+Programas
+ Node
+ Sass (digitar no console ou power shell -> npm install -g sass)
+
+Comandos no início
+ npm init -y
+ 	configurar sass no package
+ npm run sass
+ 	vai criar os arquivos style na pasta css
